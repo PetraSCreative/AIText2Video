@@ -1,2 +1,2 @@
-# AIText2Video
-AI-powered text-to-video generator app
+# Text2Video
+AI-Powered Text-to-Video Generator for Educators, Storytellers, and Content Creators.

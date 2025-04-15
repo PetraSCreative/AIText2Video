@@ -1,0 +1,19 @@
+{
+  "name": "text2video",
+  "version": "1.0.0",
+  "main": "Script2Scene.jsx",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-share": "^4.4.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
